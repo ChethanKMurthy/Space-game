@@ -10,7 +10,7 @@ Welcome to **Space Dodger**, a thrilling game where you navigate through space, 
 
 1. **Clone the Repository**
    ```bash
-   git clone (https://github.com/ChethanKMurthy/Space-game)
+   git clone https://github.com/ChethanKMurthy/Space-game
 Download and Run
 
 If you're new to GitHub, simply download all the files.
