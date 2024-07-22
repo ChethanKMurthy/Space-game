@@ -21,7 +21,6 @@ Use arrow keys to dodge the planets.
 Survive as long as you can with limited lives.
 Have Fun!
 
-Screenshots
 
 Features
 Infinite space with unlimited distance.
@@ -41,13 +40,6 @@ Acknowledgements
 This game is a result of a JavaScript course I took from FreeCodeCamp. Special thanks to the FreeCodeCamp community for the excellent learning resources.
 
 ENJOY DODGING THOSE PLANETS!
-
-vbnet
-Copy code
-
-You can replace `<repository-url>` with the actual URL of your GitHub repository and `path/to/screenshot.png` with the path to a screenshot of your game. This README should make your project appealing and easy for others to understand and use.
-
-
 
 
 
